@@ -1,0 +1,2 @@
+rootProject.name = "AsyncTaskAlternatives"
+include ':app'
